@@ -2,119 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adc1d915-af17-4fec-95cf-d3e7b8c0ed6a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple01.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple02.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple03.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple04.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple05.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple06.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple07.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple08.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple09.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple10.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple11.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple12.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple13.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple14.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/apple/apple15.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana01.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana02.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana03.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana04.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana05.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana06.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana07.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana08.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana09.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana10.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana11.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana12.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana13.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana14.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/banana/banana15.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi01.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi02.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi03.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi04.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi05.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi06.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi07.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi08.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi09.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi10.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi11.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi12.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi13.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi14.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/kiwi/kiwi15.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime01.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime02.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime03.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime04.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime05.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime06.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime07.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime08.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime09.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime10.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime11.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime12.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime13.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime14.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/lime/lime15.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange01.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange02.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange03.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange04.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange05.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange06.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange07.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange08.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange09.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange10.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange11.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange12.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange13.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange14.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/orange/orange15.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach01.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach02.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach03.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach04.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach05.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach06.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach07.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach08.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach09.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach10.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach11.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach12.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach13.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach14.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/peach/peach15.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple01.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple02.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple03.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple04.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple05.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple06.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple07.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple08.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple09.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple10.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple11.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple12.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple13.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple14.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/audio/pineapple/pineapple15.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/VoiceTouch.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/GMMHMM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HMMSingleSpeakerASR/main.py" afterPath="$PROJECT_DIR$/HMMSingleSpeakerASR/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VoiceTouch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,7 +16,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/VoiceTouch$download.coverage" NAME="download Coverage Results" MODIFIED="1433211759691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HMMSingleSpeakerASR" />
+    <SUITE FILE_PATH="coverage/VoiceTouch$download.coverage" NAME="download Coverage Results" MODIFIED="1440022144563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HMMSingleSpeakerASR" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -143,10 +33,22 @@
       <file leaf-file-name="main.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HMMSingleSpeakerASR/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.021067416" vertical-offset="180" max-vertical-offset="915">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.33297062" vertical-offset="1059" max-vertical-offset="2340">
+              <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GMMHMM.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HMMSingleSpeakerASR/GMMHMM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2640">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#133#157#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,14 +69,16 @@
       <list>
         <option value="$PROJECT_DIR$/HMM_singleSpeakerASR.py" />
         <option value="$PROJECT_DIR$/HMMSingleSpeakerASR/download.py" />
+        <option value="$PROJECT_DIR$/HMMSingleSpeakerASR/GMMHMM.py" />
         <option value="$PROJECT_DIR$/HMMSingleSpeakerASR/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1378" />
     <option name="y" value="23" />
-    <option name="width" value="1177" />
-    <option name="height" value="832" />
+    <option name="width" value="1160" />
+    <option name="height" value="1334" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -202,6 +106,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,9 +125,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VoiceTouch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VoiceTouch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HMMSingleSpeakerASR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VoiceTouch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VoiceTouch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HMMSingleSpeakerASR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,27 +376,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1177" height="832" extended-state="0" />
-    <editor active="false" />
+    <frame x="1378" y="23" width="1160" height="1334" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.072463766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32687226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22808586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33064517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23752013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -483,6 +419,26 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HMMSingleSpeakerASR/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="217" max-vertical-offset="915">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HMMSingleSpeakerASR/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="915">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HMMSingleSpeakerASR/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="915">
@@ -523,10 +479,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HMMSingleSpeakerASR/GMMHMM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2640">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#133#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HMMSingleSpeakerASR/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021067416" vertical-offset="180" max-vertical-offset="915">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.33297062" vertical-offset="1059" max-vertical-offset="2340">
+          <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
           <folding>
             <element signature="e#22#31#0" expanded="true" />
           </folding>
